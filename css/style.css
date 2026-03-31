@@ -539,7 +539,7 @@ em { font-style: italic; color: var(--accent); }
     border-bottom: 1px solid var(--accent-border);
   }
   .nav__links a:hover { color: var(--accent) !important; }
-  .nav__cta { margin: 12px 28px 0 !important; text-align: center; border: none !important; }
+  .nav__cta { margin: 12px 28px 0 !important; text-align: center; border: none !important; color: #fff !important; }
 
   .hero { min-height: 100svh; align-items: flex-end; }
   .hero__inner { padding-bottom: 64px; }
